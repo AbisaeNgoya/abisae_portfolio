@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abisae_portfolio/static/css/main.6916b3f2.css",
+    "main.js": "/abisae_portfolio/static/js/main.a6de916c.js",
+    "static/media/comp.jpg": "/abisae_portfolio/static/media/comp.c6c7e52f998db761b7cf.jpg",
+    "static/media/me.jpg": "/abisae_portfolio/static/media/me.a402622638297edc6430.jpg",
+    "index.html": "/abisae_portfolio/index.html",
+    "main.6916b3f2.css.map": "/abisae_portfolio/static/css/main.6916b3f2.css.map",
+    "main.a6de916c.js.map": "/abisae_portfolio/static/js/main.a6de916c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6916b3f2.css",
+    "static/js/main.a6de916c.js"
+  ]
+}
